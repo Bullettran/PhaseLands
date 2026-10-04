@@ -1,0 +1,15 @@
+Begin Object Class=/Script/Engine.AnimMontage Name="A_AS_example_Montage" ExportPath="/Script/Engine.AnimMontage'/Game/A_AS_example_Montage.A_AS_example_Montage'"
+   Begin Object Class=/Script/Engine.AnimDataModel Name="AnimDataModel" ExportPath="/Script/Engine.AnimDataModel'/Game/A_AS_example_Montage.A_AS_example_Montage:AnimDataModel'"
+   End Object
+   Begin Object Name="AnimDataModel" ExportPath="/Script/Engine.AnimDataModel'/Game/A_AS_example_Montage.A_AS_example_Montage:AnimDataModel'"
+      NumberOfFrames=432432
+      NumberOfKeys=432433
+   End Object
+   CompositeSections(0)=(SectionName="Default",LinkedMontage="/Script/Engine.AnimMontage'A_AS_example_Montage'",SegmentIndex=0,SegmentLength=7.207200,LinkedSequence="/Script/Engine.AnimSequence'/Game/A_AS_example.A_AS_example'")
+   SlotAnimTracks(0)=(AnimTrack=(AnimSegments=((CachedPlayLength=7.207200,AnimReference="/Script/Engine.AnimSequence'/Game/A_AS_example.A_AS_example'",AnimEndTime=7.207200))))
+   CommonTargetFrameRate=(Numerator=30000,Denominator=1001)
+   SequenceLength=7.207200
+   AnimNotifyTracks(0)=(TrackName="1")
+   DataModelInterface=AnimDataModel'A_AS_example_Montage:AnimDataModel'
+   Skeleton="/Script/Engine.Skeleton'/Game/Characters/Mannequins/Meshes/SK_Mannequin.SK_Mannequin'"
+End Object

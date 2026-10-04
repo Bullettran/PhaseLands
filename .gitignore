@@ -1,0 +1,19 @@
+# Сгенерированные папки Unreal Engine
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+
+# Файлы IDE (Visual Studio, Rider и т.д.)
+.vs/
+.idea/
+.vscode/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+
+# Файлы, генерируемые операционной системой
+.DS_Store
+Thumbs.db
